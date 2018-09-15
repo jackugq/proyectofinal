@@ -1,0 +1,57 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g stroke="null">
+  <title>background</title>
+  <rect stroke="null" fill="#ffffff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g stroke="null" display="none" id="canvasGrid">
+   <rect stroke="null" fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%" id="svg_1"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title>Layer 1</title>
+  <ellipse ry="45.500001" rx="162.246966" id="svg_3" cy="292.400001" cx="274.746952" stroke-width="1.5" fill="#00ff00"/>
+  <ellipse ry="42.5" rx="147.368425" id="svg_5" cy="287.400001" cx="302.37853" stroke-width="1.5" fill="#ffffff"/>
+  <g id="svg_2" stroke="null">
+   <ellipse id="svg_33" cy="173.314971" cx="296.708995" stroke-opacity="null" stroke-width="0" fill="#5c6068" stroke="#000"/>
+   <ellipse ry="42.518159" rx="137.349247" id="svg_32" cy="151.370115" cx="240.849249" stroke-opacity="null" stroke-width="0" fill="#7583a0" stroke="#000"/>
+   <ellipse ry="43.889716" rx="111.719475" id="svg_36" cy="151.370111" cx="243.783059" stroke-opacity="null" stroke-width="0" fill="#ffffff" stroke="#000"/>
+   <ellipse id="svg_37" cy="163.714096" cx="415.000208" stroke-opacity="null" stroke-width="0" fill="#5c6068" stroke="#000"/>
+  </g>
+  <g id="svg_74" stroke="null">
+   <g transform="matrix(0.628765400935506,0.19644519865168086,-0.23415800799631373,0.527498269860682,252.33363216682994,-92.74305334406438) " id="svg_73" stroke="null">
+    <ellipse ry="47.873429" rx="38.821909" id="svg_71" cy="519.161124" cx="364.989675" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#529ce5" stroke="#000"/>
+    <ellipse ry="47.873429" rx="42.792332" id="svg_72" cy="517.812577" cx="376.018623" stroke-opacity="null" stroke-width="0" fill="#ffffff" stroke="#000"/>
+   </g>
+   <g transform="matrix(0.628765400935506,0.19644519865168086,-0.23415800799631373,0.527498269860682,253.2278894450614,-94.03499423493128) " id="svg_67" stroke="null">
+    <ellipse ry="39.511855" rx="32.565666" id="svg_65" cy="521.594746" cx="373.234519" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#529ce5" stroke="#000"/>
+    <ellipse ry="39.511855" rx="35.896247" id="svg_66" cy="520.481736" cx="382.486125" stroke-opacity="null" stroke-width="0" fill="#ffffff" stroke="#000"/>
+   </g>
+   <g transform="matrix(0.6028750389317387,0.2470506509306029,-0.2944785044030276,0.5057777344388311,270.3172703255351,-104.94922625434134) " id="svg_70" stroke="null">
+    <ellipse ry="33.727884" rx="31.11076" id="svg_68" cy="509.747091" cx="421.468055" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#529ce5" stroke="#000"/>
+    <ellipse ry="33.727884" rx="34.292544" id="svg_69" cy="508.79701" cx="430.306337" stroke-opacity="null" stroke-width="0" fill="#ffffff" stroke="#000"/>
+   </g>
+  </g>
+  <text transform="matrix(12.253056681799821,0,0,3.463001509349262,-4257.313215907607,-954.8638631567248) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_30" y="328.444937" x="358.104888" stroke-opacity="null" stroke-width="0" fill="#7583a0" stroke="#000">Q</text>
+  <text transform="matrix(7.539573147119396,0,0,2.0951057228496937,-2140.055798118527,-316.434595211795) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_29" y="232.728287" x="305.842717" stroke-opacity="null" stroke-width="0" fill="#7583a0" stroke="#000">G</text>
+  <g id="svg_52" stroke="null">
+   <rect id="svg_44" height="42.387607" width="12.458817" y="255.709052" x="401.147104" stroke-opacity="null" stroke-width="0" fill="#070707" stroke="#000"/>
+   <rect id="svg_45" height="4.582444" width="34.386334" y="269.026779" x="379.219587" stroke-opacity="null" stroke-width="0" fill="#020202" stroke="#000"/>
+   <rect id="svg_46" height="4.582444" width="41.114099" y="296.320963" x="385.947347" stroke-opacity="null" stroke-width="0" fill="#020202" stroke="#000"/>
+   <ellipse ry="11.427469" rx="13.829286" id="svg_48" cy="241.360274" cx="407.251924" stroke-opacity="null" stroke-width="0" fill="#000000" stroke="#000"/>
+   <rect transform="matrix(-0.4704352450256091,-0.46741115068006794,0.5809391464159949,-0.37850208675802455,367.88916940142883,567.5931856524921) " id="svg_51" height="8.262096" width="23.778352" y="319.162964" x="370.446977" stroke-opacity="null" stroke-width="0" fill="#020202" stroke="#000"/>
+  </g>
+  <g id="svg_63" stroke="null">
+   <ellipse id="svg_34" cy="302.365543" cx="225.604035" stroke-opacity="null" stroke-width="0" fill="#175a9e" stroke="#000"/>
+   <rect transform="matrix(-0.6617576846760196,-0.42810359163428263,0.17731743719402915,-1.5977043548818592,823.883124095388,350.59269468913357) " id="svg_53" height="133" width="8" y="-198.543327" x="863.790853" stroke-opacity="null" stroke-width="0" fill="#175a9e" stroke="#000"/>
+   <rect transform="matrix(0.6617576846760196,-0.4281035916342821,0.17731743719402898,1.5977043548818595,291.2745562899541,-26.645724598432537) " id="svg_54" height="132.999998" width="8" y="46.911586" x="-90.792349" stroke-opacity="null" stroke-width="0" fill="#175a9e" stroke="#000"/>
+   <rect id="svg_56" height="28.119109" width="9.591428" y="81.713237" x="235.451151" stroke-opacity="null" stroke-width="0" fill="#175a9e" stroke="#000"/>
+   <rect id="svg_58" height="14.886587" width="11.646733" y="286.81733" x="209.417276" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#175a9e" stroke="#000"/>
+   <rect id="svg_59" height="14.886587" width="11.646733" y="285.163264" x="259.087168" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#175a9e" stroke="#000"/>
+   <rect id="svg_60" height="14.886587" width="30.829589" y="212.384393" x="224.489519" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#175a9e" stroke="#000"/>
+   <rect id="svg_61" height="14.886587" width="41.106118" y="253.736024" x="219.693805" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#175a9e" stroke="#000"/>
+   <rect id="svg_62" height="14.886587" width="20.553059" y="167.724631" x="229.285233" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#175a9e" stroke="#000"/>
+  </g>
+  <text transform="matrix(1.1240159961768725,0,0,0.4486609651849007,-163.55984916998895,127.63594477842531) " xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="24" id="svg_77" y="408.895126" x="247.730718" stroke-width="0" fill="#00bf00" stroke="#6262c4">Abel Ivan Guzman Quenta</text>
+ </g>
+</svg>
